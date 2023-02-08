@@ -6,4 +6,5 @@ Data was downloaded from the City of Sydney data hub [here](https://data.cityofs
 
 Used matplotlib, pandas and numpy to plot and visulise the data in graphs.
 
-## 
+![screenshot](https://raw.githubusercontent.com/Gsirron/datascience-sydney-pedestrians/blob/master/Weekly%20Sydney%20Pedestrian%20Count.gif)
+
